@@ -135,4 +135,6 @@ distintos?
 CRONOGRAMA
 ![crono](https://github.com/Damian-A-Perez/Informe_08/blob/master/Img/crono%20l8.png)
 
-
+Bibliografia:
+1: Terman, Frederick (1943). "Manual de Ingenieros de Radio". McGraw-Hill.
+2:  Routledge (1997). Spanish Technical Dictionary/Diccionario Técnico Inglés. Gran Bretaña: Routledge. p. 104. ISBN 9780415112734. 
