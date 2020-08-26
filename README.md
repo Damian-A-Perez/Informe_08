@@ -129,10 +129,10 @@ circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacit
 distintos?
 -Solo habrá una variación en las medidas y los valores equivalentes serán mayores o menores a los que calculamos.
 
+5.- ¿Qué son los valores eficaces de voltaje y corriente?
+-Son los valores que nos indican los instrumentos de medición, que es también el valor que puede se puede tomar en corriente directa y funcionar igual en el caso de una fuente.
+
 CRONOGRAMA
 ![crono](https://github.com/Damian-A-Perez/Informe_08/blob/master/Img/crono%20l8.png)
 
-
-5.- ¿Qué son los valores eficaces de voltaje y corriente?
--Son los valores que nos indican los instrumentos de medición, que es también el valor que puede se puede tomar en corriente directa y funcionar igual en el caso de una fuente.
 
