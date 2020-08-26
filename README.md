@@ -84,7 +84,8 @@ Circuito 1
 
 |Frecuencias[Hz] |Osiloscopio Vo [Vpk] | Multimetro Vo [v]|Multimetro R1 [A]|
 |  :---:|  :---: | :---:  | :---: |
-|  :---:| Medido | Calculado  |Medido |Calculado |Medido|Calculado
+|  | Medido | Calculado  |Medido |Calculado |Medido|Calculado|
+|  :---:|  :---: | :---:  | :---: |  :---:|  :---: | :---:  |
 | 0     | 0      |1 |0       |1|   0      |1|
 | 10    | 19.6[v]|1 |7.014   |1|  8.93    |1|
 | 50    | 16.8[v]|1 |5.965   |1|37.98 [mA]|1|
