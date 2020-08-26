@@ -38,7 +38,14 @@ En esta imagen podemos observar como se divide en placas la estructura interna d
 
 ![](https://github.com/Damian-A-Perez/Informe_08/blob/master/Img/Dissectible_Leyden_jar.png)
 
+-- La Bobina:
+Una bobina, o tambien concida como Inductor, en el campo de la electricidad, es un componente pasivo que contiene dos terminales externos, su objetivo se basa en almacenar energia en cuanto una corriente electrica entra por uno de sus terminales, lo que genera un campo magnetico a su alrededor.
+Su estructura generica se basa en un pedazo de alambre alderedor de un nucleo, dicho nucleo es una de las variables importantes a tomar en cuenta al momento de realizar las mediciones y calculos con un campo magnetico, la cantidad de veces que se enrrolle el alambre sobre el nucleo es otra variable a tener presente siempre en los calculos.
 
+El campo que se genera durante el tiempo en que la corriente fluye a traves del inductor, expresa un voltaje en el conductor que se expresa mediante la Ley de Faraday. Dicha tension producida tendra una polaridad contraria a la dirrecion de la corriente que fluye por medio de la bobina o inductor. 
+Un ejemplo claro de esto es el uso de una bobina tesla, como se muestra en la imagen.
+
+![]()
 
 ANALISIS DE RESULTADOS
 
