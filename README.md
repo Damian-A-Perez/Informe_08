@@ -96,10 +96,10 @@ Circuito 1
 
 Circuito 2
 
- |Osiloscopio Vo [V] | Multimetro Vo [v]|Multimetro R1 [mA]|
-|  :---: | :---: | :---: |
+ |  Frecuencia [Hz]|Osiloscopio Vo [V] | Multimetro Vo [v]|Multimetro R1 [mA]|
+|  :---:|  :---: | :---: | :---: |
 
-|Frecuencias [Hz]  | Medido | Calculado  |Medido |Calculado |Medido|Calculado|
+|  | Medido | Calculado  |Medido |Calculado |Medido|Calculado|
 |  :---:|  :---:|  :---: | :---:  | :---: |  :---:|  :---: | 
 | 0     | 0     | 0 |0   | 0 | 0   | 0|
 | 10    | 628 [mv]| 1|222.04 [mv]| 1|  70.67 | 1|
