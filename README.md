@@ -9,11 +9,11 @@ NRC:  8703
 
 En esta practica comprenderemos y demostraremos el comportamiento de dos elementos lineales, los cuales seran bobina y  capacitor, cada uno dentro de un circuito por separado, usaremos la herramienta de simulacion Multisim para determinar los valores necesario y para guiarnos con valores mas exactos al momento de necesitar una variacion de frecuencia.
 
-# 1_PLANTAMIENTO DEL PROBLEMA
+# 1 PLANTAMIENTO DEL PROBLEMA
 
 Necesitamos determinar los valores de la caida de tension en la parte de cada uno de los circuitos, ya sea con bobina o capacitor, con el uso de una fuente de voltaje alterno y una resistencia extra, el circuito debe ser armada con los valores exactos y se usara un osiloscopio para encontrar los valores finales.
 
-# 2_Objetivo de la Practica
+# 2 Objetivo de la Practica
 	
 -Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
 
@@ -23,7 +23,7 @@ Necesitamos determinar los valores de la caida de tension en la parte de cada un
 
 -Familiarizarse con el uso de instrumentos de medida.
 
-# 3_Marco teorico:
+# 3 Marco teorico:
 
 --EL Capacitor:
 Un capacitor o condensador, es un dispositivo pasivo y su objetivo es almacenar energia sustentando un campo electrico. Se encuentra estructurado por una serie de superficies conductoras las cuales generalmente tienen forma de laminas o placas que se encuentran separadas por un material dielectrico o por el vacio.
@@ -53,6 +53,12 @@ La inductancia es la relacion de la tension con la tasa de cambio de corriente, 
 # 4 MATERIALES
 
 ![](https://github.com/Damian-A-Perez/Informe_08/blob/master/Img/Anotaci%C3%B3n%202020-08-25%20202904.png)
+
+# 5 Procedimiento
+
+Construya el siguiente circuito
+![]()
+![]()
 
 ANALISIS DE RESULTADOS
 
