@@ -113,3 +113,23 @@ En cada uno de los circuitos anteriores, utilice los resultados de las medicione
 | 1000  | -15.92j | 200pi j | -7.96 j |  100pi j  |
 
 
+Preguntas
+
+1.- Justifique los errores cometidos en las mediciones.
+-Los errores cometidos son por la variación de los instrumentos de un emulador a otro y la aproximación de decimales.
+
+2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+-La bobina funciona como como un cortocircuito y el capacitor como circuito abierto.
+
+3.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+-La bobina se opone al paso de la corriente y en el capacitor mientras más rápido cambia el voltaje entre las terminales de un capacitor, mayor es la corriente.
+
+4.- ¿Qué cree usted que ocurriría con el voltaje 𝑉𝑜𝑒𝑞 y la corriente de la resistencia en los
+circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
+distintos?
+-Solo habrá una variación en las medidas y los valores equivalentes serán mayores o menores a los que calculamos.
+
+
+5.- ¿Qué son los valores eficaces de voltaje y corriente?
+-Son los valores que nos indican los instrumentos de medición, que es también el valor que puede se puede tomar en corriente directa y funcionar igual en el caso de una fuente.
+
