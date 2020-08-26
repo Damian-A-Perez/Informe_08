@@ -60,9 +60,12 @@ Construya el siguiente circuito(1)
 
 ![](https://github.com/Damian-A-Perez/Informe_08/blob/master/Img/2020-08-25%20(2).png)
 
+![](https://github.com/Damian-A-Perez/Informe_08/blob/master/Img/7e2b15fc-b0c2-434c-ac39-b3d1e80b10bc.jpg)
+
 Construya el siguiente circuito(2)
 
 ![](https://github.com/Damian-A-Perez/Informe_08/blob/master/Img/2020-08-25%20(4).png)
+![](https://github.com/Damian-A-Perez/Informe_08/blob/master/Img/493c2209-8b24-45ad-8387-264a97caa84f.jpg)
 
 Para cada uno de los circuitos:
 
