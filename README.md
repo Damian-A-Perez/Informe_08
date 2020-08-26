@@ -45,7 +45,10 @@ Su estructura generica se basa en un pedazo de alambre alderedor de un nucleo, d
 El campo que se genera durante el tiempo en que la corriente fluye a traves del inductor, expresa un voltaje en el conductor que se expresa mediante la Ley de Faraday. Dicha tension producida tendra una polaridad contraria a la dirrecion de la corriente que fluye por medio de la bobina o inductor. 
 Un ejemplo claro de esto es el uso de una bobina tesla, como se muestra en la imagen.
 
-![]()
+![](https://github.com/Damian-A-Perez/Informe_08/blob/master/Img/kit-bobina-tesla-nuevo-D_NQ_NP_714121-MLM20710432233_052016-F.jpg)
+
+Muchos inductores tienen un núcleo magnético hecho de hierro o ferrita dentro de la bobina, que sirve para aumentar el campo magnético y por lo tanto la inductancia.
+La inductancia es la relacion de la tension con la tasa de cambio de corriente, la cual se medie en Henry [H] 
 
 ANALISIS DE RESULTADOS
 
