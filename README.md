@@ -52,7 +52,7 @@ La inductancia es la relacion de la tension con la tasa de cambio de corriente, 
 
 # 4 MATERIALES
 
-![]
+![](https://github.com/Damian-A-Perez/Informe_08/blob/master/Img/Anotaci%C3%B3n%202020-08-25%20202904.png)
 
 ANALISIS DE RESULTADOS
 
