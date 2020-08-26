@@ -108,7 +108,11 @@ Circuito 2
 | 500    | 16.93| 16.86|5.987   |5.96 |37.623 | 37.96|
 | 1000  | 19.08  | 19.06 | 6.746  | 6.74| 21.196  | 21.44|
 
+![Calculos del circuito 1](https://github.com/Damian-A-Perez/Informe_08/blob/master/Anexos/C%C3%A1lculos%20circuito%201.pdf)
 
+![Calculos del circuito 2](https://github.com/Damian-A-Perez/Informe_08/blob/master/Anexos/C%C3%A1lculos%20circuito%202.pdf)
+
+![Calculo del error](https://github.com/Damian-A-Perez/Informe_08/blob/master/Anexos/C%C3%A1lculo%20del%20error%20lab%208.pdf)
 
 En cada uno de los circuitos anteriores, utilice los resultados de las mediciones de corriente y el voltaje realizados con el multímetro para calcular la reactancia X  en cada una de las frecuencias y también para calcular los valores de 𝐿 𝑒𝑞 y  𝐶 según sea el caso.
 
@@ -120,6 +124,7 @@ En cada uno de los circuitos anteriores, utilice los resultados de las medicione
 | 100   | -159.15j |  20pi j  | 79.58 j  | 10pi j  |
 | 500    | -31,83j| 100pi j  |-15,92j| 50pi j   |
 | 1000  | -15.92j | 200pi j | -7.96 j |  100pi j  |
+
 
 
 Preguntas
