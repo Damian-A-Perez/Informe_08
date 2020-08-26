@@ -65,10 +65,7 @@ Construya el siguiente circuito(1)
 Construya el siguiente circuito(2)
 
 ![](https://github.com/Damian-A-Perez/Informe_08/blob/master/Img/2020-08-25%20(4).png)
-
 ![](https://github.com/Damian-A-Perez/Informe_08/blob/master/Img/493c2209-8b24-45ad-8387-264a97caa84f.jpg)
-
-![](https://github.com/Damian-A-Perez/Informe_08/blob/master/Img/Mighty%20Fulffy.png)
 
 Para cada uno de los circuitos:
 
@@ -91,6 +88,7 @@ Circuito 1
 | 10    | 19.6[v]|7.014   |  8.93    |
 | 50    | 16.8[v]|5.965   |37.98 [mA]|
 | 100   |12.1[v] |4.368   |55.605 [mA]|
+| 500    | 3.07[v]|1.097   |69.85 [mA]|
 | 1000  | 1.57[V]|553.7 [mV]|70.493 [mA]|
 
 Circuito 2
