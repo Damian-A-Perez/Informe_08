@@ -1,14 +1,28 @@
 # Informe_08
+TEMA: PRÁCTICA No. 8 INDUCTOR Y CAPACITOR
 
+ESTUDIANTES:  MENESES JARRIN SANTIAGO JAVIER OSEJO CUESTA BRANDON DILLAN PEREZ CEDILLO DAMIAN ALEXANDER 
+    
+DOCENTE: DARWIN OMAR ALULEMA FLORES 
+ 
+NRC:  8703
 
+En esta practica comprenderemos y demostraremos el comportamiento de dos elementos lineales, los cuales seran bobina y  capacitor, cada uno dentro de un circuito por separado, usaremos la herramienta de simulacion Multisim para determinar los valores necesario y para guiarnos con valores mas exactos al momento de necesitar una variacion de frecuencia.
 
+# 1_PLANTAMIENTO DEL PROBLEMA
 
+Necesitamos determinar los valores de la caida de tension en la parte de cada uno de los circuitos, ya sea con bobina o capacitor, con el uso de una fuente de voltaje alterno y una resistencia extra, el circuito debe ser armada con los valores exactos y se usara un osiloscopio para encontrar los valores finales.
 
+# 2_Objetivo de la Practica
+	
+Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+Familiarizarse con el uso de instrumentos de medida.
 
+# 3_Marco teorico:
 
-
-
-
+--EL Capacitor:
 ANALISIS DE RESULATADOS
 
 Circuito 1
