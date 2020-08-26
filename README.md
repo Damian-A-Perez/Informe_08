@@ -15,15 +15,29 @@ Necesitamos determinar los valores de la caida de tension en la parte de cada un
 
 # 2_Objetivo de la Practica
 	
-Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
-Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
-Verificar las combinaciones serie y paralelo de bobinas y capacitores.
-Familiarizarse con el uso de instrumentos de medida.
+-Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+
+-Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+
+-Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+
+-Familiarizarse con el uso de instrumentos de medida.
 
 # 3_Marco teorico:
 
 --EL Capacitor:
-ANALISIS DE RESULATADOS
+Un capacitor o condensador, es un dispositivo pasivo y su objetivo es almacenar energia sustentando un campo electrico. Se encuentra estructurado por una serie de superficies conductoras las cuales generalmente tienen forma de laminas o placas que se encuentran separadas por un material dielectrico o por el vacio.
+Estas Placas, adquieren una determinada carga electrica que obtiene variacion de polaridad a través de las mismas, es decir, una placa obtendra una carga electrica positivo y la siguiente tendra una carga electrica negativa, eso asegura que la variacion de carga total se vuelva nula.
+
+.-Botella de Leyden:
+La botella de Leyden es reconocido como el primer condensador de la historia, trans la principal idea de querer alamacenar la carga electrica por parte de Ewald Georg von Kleist, el fisico  Pieter van Musschenbroek la nombro asi debido al nombre de la universidad donde trabajaba( Universidad de Leiden).
+
+![]()
+![]()
+En esta imagen podemos observar como se divide en placas la estructura interna de la BOTELLA DE LEYDEN.
+
+
+ANALISIS DE RESULTADOS
 
 Circuito 1
 
