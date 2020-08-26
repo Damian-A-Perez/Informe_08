@@ -50,6 +50,10 @@ Un ejemplo claro de esto es el uso de una bobina tesla, como se muestra en la im
 Muchos inductores tienen un núcleo magnético hecho de hierro o ferrita dentro de la bobina, que sirve para aumentar el campo magnético y por lo tanto la inductancia.
 La inductancia es la relacion de la tension con la tasa de cambio de corriente, la cual se medie en Henry [H] 
 
+# 4 MATERIALES
+
+![]
+
 ANALISIS DE RESULTADOS
 
 Circuito 1
