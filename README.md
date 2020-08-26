@@ -99,6 +99,7 @@ Circuito 2
 | 10    | 628 [mv]|222.04 [mv]|  70.67[mA] |
 | 50    | 3.1 [v]|  1.097 | 69.85 [mA]  |
 | 100   | 6  [v]  |  2.12  | 67.46 [mA]  |
+| 500    | 16.93[v]|5.987   |37.623 [mA]|
 | 1000  | 18.7  [v]  | 6.746  | 21.196 [[mA] |
 
 
@@ -111,6 +112,7 @@ En cada uno de los circuitos anteriores, utilice los resultados de las medicione
 | 10    | -1591.55j | 2pi j |  -795.755 j | pi j |
 | 50    | -318.31j  |  10pi j | 159.16 j |  5pi j  |
 | 100   | -159.15j |  20pi j  | 79.58 j  | 10pi j  |
+| 500    | 3.1[v]|1.097   |69.85 [mA]|
 | 1000  | -15.92j | 200pi j | -7.96 j |  100pi j  |
 
 
