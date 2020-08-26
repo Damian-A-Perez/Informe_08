@@ -33,8 +33,11 @@ Estas Placas, adquieren una determinada carga electrica que obtiene variacion de
 La botella de Leyden es reconocido como el primer condensador de la historia, trans la principal idea de querer alamacenar la carga electrica por parte de Ewald Georg von Kleist, el fisico  Pieter van Musschenbroek la nombro asi debido al nombre de la universidad donde trabajaba( Universidad de Leiden).
 
 ![](https://github.com/Damian-A-Perez/Informe_08/blob/master/Img/Leydenjar.png)
-![](https://github.com/Damian-A-Perez/Informe_08/blob/master/Img/Dissectible_Leyden_jar.png)
+
 En esta imagen podemos observar como se divide en placas la estructura interna de la BOTELLA DE LEYDEN.
+
+![](https://github.com/Damian-A-Perez/Informe_08/blob/master/Img/Dissectible_Leyden_jar.png)
+
 
 
 ANALISIS DE RESULTADOS
