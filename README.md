@@ -82,21 +82,21 @@ ANALISIS DE RESULTADOS
 
 Circuito 1
 
-|Frecuencias[Hz] |Osiloscopio Vo [Vpk] | Multimetro Vo [v]|Multimetro R1 [A]|
+|Frecuencias[Hz] |Osiloscopio Vo [V] | Multimetro Vo [V]|Multimetro R1 [mA]|
 |  :---:|  :---: | :---:  | :---: |
 
 |  | Medido | Calculado  |Medido |Calculado |Medido|Calculado|
 |  :---:|  :---: | :---:  | :---: |  :---:|  :---: | :---:  |
-| 0     | 0      |1 |0       |1|   0      |1|
-| 10    | 19.6[v]|1 |7.014   |1|  8.93    |1|
-| 50    | 16.8[v]|1 |5.965   |1|37.98 [mA]|1|
-| 100   |12.1[v] | 1 |4.368   |1|55.605 [mA]|1|
-| 500    | 3.1[v]| 1 |1.097   |1|69.85 [mA]|1|
-| 1000  | 1.57[V]|1 |553.7 [mV]|1|70.493 [mA]|1|
+| 0     | 0      |0 |0       |0|   0      |0|
+| 10    | 19.6|19.83 |7.014   |7.01|  8.93    |8.8|
+| 50    | 16.8|16.94 |5.965   |5.99|37.98 |37.61|
+| 100   |12.1 | 12.45 |4.368   |4.4|55.605 |55.32|
+| 500    | 3.1| 3.14 |1.097   |1.11|69.85 |69.83|
+| 1000  | 1.57|1.58 |553.7 [mV]|0.56|70.493 |70.48|
 
 Circuito 2
 
-|Frecuencias[Hz] |Osiloscopio Vo [Vpk] | Multimetro Vo [v]|Multimetro R1 [A]|
+|Frecuencias[Hz] |Osiloscopio Vo [V] | Multimetro Vo [v]|Multimetro R1 [mA]|
 |  :---:|  :---: | :---: | :---: |
 | 0     | 0      |0     | 0   |
 | 10    | 628 [mv]|222.04 [mv]|  70.67[mA] |
